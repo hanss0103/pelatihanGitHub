@@ -8,9 +8,9 @@
 - Uranus
 - Neptunus
 
-[Tata Surya](https://solarsystem.nasa.gov/)
+[Tata Surya](https://i.pinimg.com/736x/22/04/b3/2204b313a50476e9becac4b0d2f664e8.jpg)
 
-![Galaksi Bima Sakti](https://example.com/images/milky-way-galaxy.jpg)
+![Galaksi Bima Sakti](https://i.pinimg.com/736x/7e/18/53/7e1853c359e9719d3f609613fe5df982.jpg)
 
 | Planet | Diameter | Jumlah Satelit |
 | ------- | -------- | -------------- |
