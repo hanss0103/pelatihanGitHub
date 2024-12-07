@@ -10,7 +10,7 @@
 
 [Tata Surya](https://i.pinimg.com/736x/22/04/b3/2204b313a50476e9becac4b0d2f664e8.jpg)
 
-![Galaksi Bima Sakti](https://i.pinimg.com/736x/7e/18/53/7e1853c359e9719d3f609613fe5df982.jpg)
+![GW](https://i.pinimg.com/474x/cc/43/d5/cc43d5ad5c8e71d969698b77109feaba.jpg)
 
 | Planet | Diameter | Jumlah Satelit |
 | ------- | -------- | -------------- |
