@@ -5,4 +5,5 @@ void main(){
     printf("Hay");
     printf("asss");
     printf("asssi");
+    printf("INI MASIH MAIN");
 }
