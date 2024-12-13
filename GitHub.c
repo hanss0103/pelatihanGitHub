@@ -7,4 +7,5 @@ void main(){
     printf("asssi");
     printf("INI MASIH MAIN");
     printf("BUAT GABUNGAN");
+    printf("apa");
 }
