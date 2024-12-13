@@ -6,4 +6,5 @@ void main(){
     printf("asss");
     printf("asssi");
     printf("INI MASIH MAIN");
+    printf("BUAT GABUNGAN");
 }
